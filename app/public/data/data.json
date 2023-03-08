@@ -1,6 +1,67 @@
 {
-  "boards": [],
-  "tasks": [],
+  "boards": [
+    {
+      "name": "task 1",
+      "user": 0,
+      "id": 51091843050,
+      "starred": false,
+      "created": "2023-03-07"
+    },
+    {
+      "name": "board 1",
+      "user": 0,
+      "id": 30157046838,
+      "starred": false,
+      "created": "2023-03-07"
+    }
+  ],
+  "tasks": [
+    {
+      "boardId": 30157046838,
+      "description": "",
+      "completed": false,
+      "listId": 73833120550,
+      "title": "task 1",
+      "id": 16377328577,
+      "created": "2023-03-07",
+      "deadline": "2023-03-10",
+      "order": 1
+    },
+    {
+      "boardId": 30157046838,
+      "description": "",
+      "completed": false,
+      "listId": 73833120550,
+      "title": "task 2",
+      "id": 70555027524,
+      "created": "2023-03-07",
+      "deadline": "2023-03-10",
+      "order": 0
+    },
+    {
+      "boardId": 30157046838,
+      "description": "",
+      "completed": false,
+      "listId": 46403765178,
+      "title": "task 1",
+      "id": 7770588733,
+      "created": "2023-03-07",
+      "deadline": "2023-03-10"
+    }
+  ],
   "users": [],
-  "lists": []
+  "lists": [
+    {
+      "boardId": 30157046838,
+      "title": "list x",
+      "id": 73833120550,
+      "created": "2023-03-07"
+    },
+    {
+      "boardId": 30157046838,
+      "title": "list 2",
+      "id": 46403765178,
+      "created": "2023-03-07"
+    }
+  ]
 }
